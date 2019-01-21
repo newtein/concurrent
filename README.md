@@ -2,7 +2,7 @@
 # Hyperbola-based Thread-pool Analysis Technique
 This repository consists of script for my published novel technique 'Hyperbola-based Thread-pool Analysis' (HTA). This is developed during 6th semester of my bachelor's as minor project under CoPecs. 
 
-
+<a href='https://ieeexplore.ieee.org/document/8530645/'>IEEE Xplore</a>
 
 
 ## Problem Statement
